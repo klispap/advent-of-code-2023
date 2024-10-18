@@ -1,6 +1,6 @@
 <img src="./.assets/christmas_ferris.png" width="164">
 
-# 🎄 Advent of Code {year}
+# 🎄 Advent of Code 2023
 
 Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.rust-lang.org/).
 
@@ -10,16 +10,20 @@ Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.
 
 ---
 
-## Template setup
+## Template Used
 
-This template supports all major OS (macOS, Linux, Windows).
+The template used supports all major OS (macOS, Linux, Windows) and is a fork from [fspoettel/advent-of-code-rust](https://github.com/fspoettel/advent-of-code-rust).
 
-###  📝 Create your repository
 
-1.  Open [the template repository](https://github.com/fspoettel/advent-of-code-rust) on Github.
-2.  Click [Use this template](https://github.com/fspoettel/advent-of-code-rust/generate) and create your repository.
-3.  Clone your repository to your computer.
-4.  If you are solving a previous year's advent of code, change the `AOC_YEAR` variable in `.cargo/config.toml` to reflect the year you are solving.
+## Summary
+
+You can find my solutions to the **Advent of Code 2023 puzzles** under the `src` folder. Despite solving the puzzles much much later than the actual competition, I tried to be fast and not overthink about the solutions to implement.
+
+I know that this "quick and dirty" approach is not producing the best and optimized answer but I decided to be true to the competition's nature and go on with the first idea that popped in my mind for every problem.
+
+So please forgive code duplication, poor choices of helper data structures and suboptimal use of resources.
+The goal was to have fun thinking on my feet. And, I oh boy I did! `;-)`
+
 
 ### 💻 Setup rust
 
