@@ -22,7 +22,7 @@ You can find my solutions to the **Advent of Code 2023 puzzles** under the `src`
 I know that this "quick and dirty" approach is not producing the best and optimized answer but I decided to be true to the competition's nature and go on with the first idea that popped in my mind for every problem.
 
 So please forgive code duplication, poor choices of helper data structures and suboptimal use of resources.
-The goal was to have fun thinking on my feet. And, I oh boy I did! `;-)`
+The goal was to have fun thinking on my feet. And, oh boy, I did! `;-)`
 
 
 ### 💻 Setup rust
